@@ -1,5 +1,7 @@
 ## CHAT APP using MERN stack and SOCKET.IO 🤠
 
+
+A real-time chat application using the MERN stack (MongoDB, Express.js, React, and Node.js) leverages these technologies to create a dynamic and responsive chat platform.By utilizing the MERN stack, developers can create a robust and efficient real-time chat application that offers a rich user experience and handles high traffic with ease.
 ---
 
 ### Features
@@ -156,10 +158,11 @@ userRoutes.js
 
 ## Contributors
 
-- Vaibhav Dhiman <vaibhav.dhiman.my@gmail.com>
+- Khushi Mishra
+- Aryan 
 
 ---
 
 ## License & copyright
 
-©️ Vaibhav Dhiman
+©️ Rohit Tanwar
